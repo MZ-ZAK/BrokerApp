@@ -30,3 +30,6 @@ and then he can work from the sqlite database for fast fetching of the data
 
 NOTE: photos and recorded MSGs is not saved on the phone, only on server
 so to access it, the phone will only show the player ui or photo ui, if there is an internet connection
+
+upload to server folder
+contains all the php files needed for the app to work
